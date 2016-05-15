@@ -6,7 +6,8 @@ body {
 
 }
 
-h1 {
+h1,
+h3 {
  text-shadow:2px 11px 2px #000000;
 }
 
